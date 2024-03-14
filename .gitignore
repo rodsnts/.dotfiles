@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.zshrc
+.config/*
+
+!.config/
+.config/tmux/*
+!.config/tmux/
+.config/tmux/tmux.conf
+!.config/tmux/tmux.conf
